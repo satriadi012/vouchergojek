@@ -18,7 +18,7 @@ setelah itu anda wajib memasukan kode perintah untuk mendownload script auto cla
 git clone https://github.com/satriadi012/vouchergojek
 
 lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan claim voucher go food gojek
-cd gofood
+cd vouchergojek
 
 php tembak.php
 
