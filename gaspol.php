@@ -7,7 +7,7 @@ echo color("red","| Auto daftar dan redeem gojek |\n");
 echo color("red","| WA :085760666427|\n");
 echo color("red","| FB:www.facebook.com/geryk1|\n");
 echo color("red","| GWANGZHOU PUNYA CRITA          |\n");
-echo "| Version : Pertamax      |\n";
+echo "| Version : Pertamina      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
@@ -82,7 +82,7 @@ echo " ===========================\n";
         goto goride;
         }else{
         echo "\n".color("red","-] Message: ".$messageboba10);
-        echo "\n".color("yellow","!] Claim voc GOFOODSANTUY11");
+        echo "\n".color("yellow","!] Claim voc GOFOODSANTUY08");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
